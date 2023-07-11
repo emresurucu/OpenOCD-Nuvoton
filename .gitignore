@@ -1,5 +1,8 @@
 # stuff "git status" should ignore
 
+#Macos
+.DS_Store
+
 # build output
 .libs
 .deps
